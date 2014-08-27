@@ -1,0 +1,5 @@
+{
+	"send" : true,
+	"timeout" : 20000,
+	"publish" : true
+}

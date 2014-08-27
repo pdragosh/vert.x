@@ -1,0 +1,10 @@
+{
+	"period" : 50,
+	"num" : 250,
+	"send" : true,
+	"timeout" : 20000,
+	"publish" : true,
+	"total" : 10000,
+	"rounds" : 10000,
+	"delay" : 5000
+}
